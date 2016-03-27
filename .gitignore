@@ -1,4 +1,6 @@
 yelp_dataset*
 
+data*
+
 # IPython notebook checkpoints
 .ipynb_checkpoints
