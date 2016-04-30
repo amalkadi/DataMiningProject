@@ -5,4 +5,4 @@
 Yelp Dataset 
 
 
-Renqing Gao & Amal Kadi
+Renqing Gao (gladius) & Amal Kadi (akadi)
